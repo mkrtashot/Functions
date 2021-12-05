@@ -3,8 +3,8 @@
 // first one.
 
 function remover(str1, str2) {
-  arrStr1 = [];
-  arrStr2 = [];
+  let arrStr1 = [];
+  let arrStr2 = [];
   arrStr1 = str1.split("");
   arrStr2 = str2.split("");
 
